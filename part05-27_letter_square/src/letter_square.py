@@ -1,6 +1,7 @@
 # Write your solution here
 from string import ascii_uppercase
 
+# Enter a number from 2 to 26
 input_layers = int(input("Layers: "))
 
 # the formula to use at multiple places
